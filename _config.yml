@@ -1,0 +1,49 @@
+# Basic
+title: 魏名华
+subtitle: 30了, 而立了
+description: 随性而记，访客请出门左拐，右拐也行
+welcome_message: No Welcome
+creator: <a href="https://weiminghuaa.github.io">@weiminghuaa</a>
+
+url: "https://weiminghuaa.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+# nav:
+#     - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    #weibo: onevcat
+    github: weiminghuaa
+    twitter: xilie
+    #gplus: 107108267983477358170
+    mail: weiminghuaa@o163.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
