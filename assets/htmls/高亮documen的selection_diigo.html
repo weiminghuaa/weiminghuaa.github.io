@@ -21,7 +21,9 @@
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
   <script type="text/javascript">
-    var emStr = '<em class="webnoteHighlight"> </em>'
+    var emStr = '<em class="webnoteHighlight"> </em>',
+      tagBlackList = ",applet,area,base,basefont,bdo,button,frame,frameset,iframe, head,hr,img,input,link,map,meta,noframes,noscript,optgroup,option,param,script,select,style,textarea,title,";
+
     $(document).ready(function () {
       $(document).mouseup(function (e) {
 
@@ -33,7 +35,11 @@
         var anchorNode = selection.anchorNode;
         var focusNode = selection.focusNode;
         if (anchorNode == focusNode) {
-          paint(anchorNode.splitText(selection.anchorOffset).splitText(selection.focusOffset).previousSibling);
+          if (anchorNode.nodeType == 3 && anchorNode.parentNode.className == "webnoteHighlight") {
+            
+          } else {
+            paint(anchorNode.splitText(selection.anchorOffset).splitText(selection.focusOffset).previousSibling);
+          }
           return;
         }
 
@@ -105,7 +111,10 @@
           throw WN_NodeWalker.$end;
         }
       }, function (node) {
-        return true;
+        if (node.className == "webnoteHighlight") {
+          return false;
+        }
+        return node.nodeType == 3 || node.nodeType == 1 && tagBlackList.indexOf("," + node.tagName.toLowerCase() + ",") == -1
       })).walk();
       return resultNodes;
     }
@@ -139,50 +148,6 @@
             }
           }
         }
-      }
-    }
-
-    function isDescendant(parent, child) {
-      // from http://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-a-child-of-another
-      var node = child;
-      while (node != null) {
-        if (node == parent) {
-          return true;
-        }
-        node = node.parentNode;
-      }
-      return false;
-    }
-
-    function getNodesBetween(rootNode, node1, node2) {
-      var resultNodes = [];
-      var isBetweenNodes = false;
-      for (var i = 0; i < rootNode.childNodes.length; i += 1) {
-        var childnode = rootNode.childNodes[i];
-        console.log(childnode);
-        if (isDescendant(childnode, node1) || isDescendant(childnode, node2)) {
-          if (resultNodes.length == 0) {
-            isBetweenNodes = true;
-          } else {
-            isBetweenNodes = false;
-          }
-          resultNodes.push(childnode);
-        } else if (resultNodes.length == 0) {
-
-        } else if (isBetweenNodes) {
-          resultNodes.push(childnode);
-        } else {
-          return resultNodes;
-        }
-      };
-      if (resultNodes.length == 0) {
-        return [rootNode];
-      } else if (isDescendant(resultNodes[resultNodes.length - 1], node1) || isDescendant(resultNodes[resultNodes.length -
-          1], node2)) {
-        return resultNodes;
-      } else {
-        // same child node for both should never happen
-        return [resultNodes[0]];
       }
     }
   </script>
