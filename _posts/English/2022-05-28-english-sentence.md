@@ -53,11 +53,3 @@ She  is  beautiful.
 主    系     表
 ```
 
-## 一般疑问句
-
-陈述句 | 转换 | 一般疑问句
----- | ---- | ----
-This is your name. | -> | Is this you name?
-I am nice. | -> | Am I nice?
-You are my friend. | -> | Are you my friend?
-She is pretty. | -> | Is she pretty?
