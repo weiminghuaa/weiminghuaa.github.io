@@ -29,3 +29,50 @@ I have on job.
 I have on boyfriend.
 I have on money.
 ```
+
+## 有
+
+```
+I have a lot of money. // 我有很多钱
+There are a lot of cars in the stree. //街上有很多车
+```
+
+## 就近原则
+
+```
+There is a table and four chairs.
+There are four chairs and a table.
+```
+
+## I 放在后面
+```
+My wife and I are walking along...
+My classmate and I
+My father and I
+```
+
+## 名词所有格
+
+无生命的：of ```the photo of my school```
+
+有生命的：of ```the dog‘s name```
+
+我们的你们的...： my your his...  ```my book```
+
+```
+Jim and Jack's room     两个人的房间，共有
+Jim's and Jack's room   两个人的房间，每人一间
+```
+
+## front
+
+```
+in front of the car: 在车前面
+in the front of the car: 在车前排
+```
+
+## 不要
+
+```
+Don't smoke! -- No smoking!
+```

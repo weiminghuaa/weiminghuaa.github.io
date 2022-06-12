@@ -44,6 +44,12 @@ He loves me.    // me是宾语，用宾格
 ---- | ---- | ----
 be | is/am/are | been
 
+## 主谓
+
+```
+I  love.
+主   谓
+```
 
 ## 主谓宾
 
@@ -51,6 +57,32 @@ be | is/am/are | been
 I  love  you.
 主   谓   宾
 ```
+
+## 主谓宾宾
+
+```
+Your  give   me   a book.
+主     系     宾     宾
+```
+
+双宾语动词非常有限：give\show\send\take
+
+give sb. sth. = give sth. to sb.
+
+## 主谓宾补
+
+```
+I    find   the room   dark.
+主     系       宾       宾补
+```
+
+```
+Histories make men wise.
+Poems make men witty.
+Math make men subtle.
+Philosophy make men deep.
+```
+
 ## 主系表
 
 ```
@@ -58,3 +90,31 @@ She  is  beautiful.
 主    系     表
 ```
 
+## 祈使句
+
+表示命令、请求、建议
+
+1. 没有主语
+1. 动词大头
+
+> 命令
+
+```
+Come in.
+Go out.
+Shut the door.
+Open the window.
+Air the room.
+```
+
+> 请求
+
+```
+Please give me it.
+```
+
+> 建议
+
+```
+Let's go, ok?
+```
