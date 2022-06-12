@@ -33,6 +33,11 @@ he | him
 it | it
 they | them
 
+```
+I love English. // I是主语，用主格
+He loves me.    // me是宾语，用宾格
+```
+
 ## be动词
 
 原型 | be | 过去分词
