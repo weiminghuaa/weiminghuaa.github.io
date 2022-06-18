@@ -13,6 +13,14 @@ Here **is** your umbrella and your coat
 ->
 your umbrella and your coat **are** here
 
+```
+Those kings will always be there to guide you. So will I.
+
+I like Lee Hong. So do I.
+
+I didn't go to school last week. Neither did I.
+```
+
 ## 特殊回答
 
 ```

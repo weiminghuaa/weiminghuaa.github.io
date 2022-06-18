@@ -46,6 +46,8 @@ tags: English
 
     例：```My doy watches TV at night.```
 
+    例：```Jim and Lily wakl to school every day.```
+
 1. 主语为三单 + 动词s/es
 
     例：```Jim and Lily walk to school every day.```

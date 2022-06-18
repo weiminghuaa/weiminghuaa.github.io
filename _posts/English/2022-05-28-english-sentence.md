@@ -118,3 +118,22 @@ Please give me it.
 ```
 Let's go, ok?
 ```
+
+## 并列句
+
+简单句 + and\but\so\or + 简单句
+
+```
+He loves me and I am happy.
+```
+
+## 宾语从句
+
+句子作宾语
+
+I   love   you.
+主    谓     宾
+
+
+I   think   (that)   he is awful.
+主    谓    （引导词）      宾

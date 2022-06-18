@@ -1,22 +1,11 @@
 ---
 layout: post
-title: 英语学习--单词和短语
+title: 英语学习--单词
 date: 2022-05-28 15:30:35.000000000 +08:00
 tags: English
 ---
 
 ## 单词
-
-> Excuse me
-
-中文 | 例句
----- | ----
-1、对不起，打扰了 | 
-2、借过，让一让 |
-3、失陪了 |
-4、麻烦再说一遍 |
-
-
 
 > 笔
 
@@ -24,6 +13,11 @@ tags: English
 pen     钢笔 
 pencil  铅笔 
 ```
+
+> weather
+
+rain-rany  snow-snowy
+v. - adj. 
 
 > 车
 
@@ -68,6 +62,13 @@ pants       长裤
 trousers    长裤
 shots       短裤
 
+```
+
+> 身体
+
+```
+mouth   嘴巴
+tongue  舌头
 ```
 
 > 学校
@@ -170,6 +171,8 @@ ist后缀
 tourist
 dentist    牙医
 artist
+scientist
+typist
 ```
 
 other
@@ -214,6 +217,37 @@ armchair        扶手椅
 bookcase        书柜
 ```
 
+> meat
+
+```
+beef        牛肉
+lamb        羔羊肉
+mutton      羊肉
+steak       牛排
+mince       肉馅
+chichen     鸡肉
+pork        猪肉
+```
+
+> 菜
+
+```
+tomato        西红柿
+potato        土豆
+cabbage       卷心菜
+lettuce       莴笋
+pea           豌豆
+bean          豆角
+```
+
+> 水果 
+
+```
+pear         梨
+grape        葡萄
+peach        桃子
+```
+
 > full
 ```
 I'm full.
@@ -254,16 +288,29 @@ weaken     削弱
 
 > tooth-teeth \ foot-feet
 
-> other
+> 不可数名词
+
+```
+a piece of bread
+a loaf of bread
+a bar of soap
+a bottle of cloa
+a tin of cloa
+a pound of cheese
+a cup of coffee
+a box of tea
+a spoon of sugar
+
+two bars of chocolate
+```
+
+> number
 
 ```
 号码  number one / No.1
 ```
 
-```
-come upstairs 上楼来
-go downstairs 下楼去
-```
+> work
 
 ```
 hard-working
@@ -271,80 +318,6 @@ good-looking
 easy-going      好相处的
 ```
 
-
-### 词语比较或区别
-
-> well vs fine
-
-well: 身体好
-fine：状况良好
-
-```
-I'm very well.
-I'm fine.
-That's fine.
-Everything is fine.
-```
-
-> woman vs lady
-
-an old woman: 一个老女人，不太友好
-an old lady: 一个老太太
-
-> thin vs slim
-
-thin：瘦的
-slim：苗条的
-
-夸人用slim
-```You are so slim.```
-
-> 感官动词
-
-```
-// 看 
-see：看见
-look：看
-Look at that man. I see him in the street
-
-// 听
-
-
-// 闻
-
-
-// 摸   
-
-
-```
-
-> 大的
-big    大的
-heavy  风大、雨大、雪大
-loud   声音大
-old    年级大
-large  面积大
-
-> turn on vs open
-
-turn on: 打开带电的 turn on TV
-open: open the door
-
-例外：turn on tap 打开水龙头
-
-turn off: 关掉
-
-> another vs other
-
-another   另一个（大于等于3）
-the other 另一个（等于2）
-
-```
-I have two best friend.
-One is a teacher, the other is a doctor.
-```
-
-### 一词多用
 
 > hot
 
@@ -402,68 +375,262 @@ black coffee. // 纯咖啡
 grey hair. // 花白的头发
 ```
 
-> 缩写
+> boil
 
-缩写 | 展开
----- | ----
-CEO | Chief Executive officer
-sales reps | sales representative 销售代表
-
-## 句子短语
-
-> n. + please 
-
-中文 | 例句
----- | ----
-点餐时 | A roast duck, please.
-购物时 | This shirt, please.
-进站时 | Your ID card, please.
-其他   | My coat and my umbrella, please.
-
-> 常用语
+沸腾、煮
 
 ```
-Sit down, please. / Have a seat.
-All right. // OK.
+The water is boiling
+boiled water
+boil an egg
 ```
 
-> 有始有终
-```
-There is a beginning, a middle, and an end.
-```
+> pound
 
-> 家务
+英镑、重量
 
 ```
-make the bed.       铺床
-sweep the floor.    拖地
-dust the table.     擦桌子
+one pound \ two pounds
+a pound of cheese
+half a pound of ...
+a quarter of a pound of ...
 ```
 
-> on/off
+英国货币：pound \ penny
+美国货币：dollar \ cent
 
 ```
-put on / take off
-turn on / turn off
+one pound \ two pounds
+one penny \ two pence
+one dollar \ two dollars
+one cent \ two cents
 ```
 
-> 家谱：a family tree
+> lift
 
-> 追赶：run after
-
-> 跑步运动员：runner
-
-> 您先请：After you.
-
-> 情书： a love letter
-
-> 天气
+举起、电梯(英式直梯，美式：elevator)
 
 ```
-It is fine today.
-It is bad in spring.
-It is nice in summer.
-The sun is shining.
+Can you lift this heavy case?
+There are thirteen people in this lift, it's overweight.
 ```
 
-> Just between you and me, don't tell others.
+
+
+> 医生
+
+```
+dentist       牙医
+```
+
+> 病
+
+```
+headache        头痛
+earache
+toothache
+stomach ache    胃痛
+backache        背疼   
+flu             流感
+bird flu        禽流感
+swine flu       猪流感
+measles         麻疹
+mumps           腮腺炎  
+fever           发烧   have a temperature 
+runny nose      流鼻涕
+sneez             打喷嚏
+scratchy throat   喉咙沙哑
+allergy         过敏
+```
+
+ache v.：长时间的疼痛
+
+```
+My head aches. 
+I have a headache.
+I'm troubled by my head.
+Mary takes cold easily.
+I think she gets flu.
+They all suffer from swine flu.
+```
+
+身体不舒服 `He is under the weather.`
+
+> 药
+
+```
+medicine
+aspirin
+```
+
+吃药：take `He must take an aspirin`
+
+> yet adv.
+
+否定、疑问句末
+
+```
+You can't go to work yet.
+He can't drive yet.
+```
+
+> en+ 使得
+
+enjoy \ enlarge \ endanger \ ensalve 
+
+> 饭
+
+```
+breakfast
+lunch
+dinner
+```
+
+> 各种烹饪方法
+
+```
+fried       油炸
+bake        烘焙
+simmer      炖
+mash        捣碎
+mince/chop  绞碎
+roast       烘烤
+grill       用烤架烤
+steam       蒸
+boil        煮
+shell       剥皮
+```
+
+> 中国特色食品
+
+```
+a boiled egg    煮鸡蛋
+a fried egg     煎鸡蛋
+a tea egg       茶叶蛋
+fried sticks    油条
+sliced noodles  刀削面
+steamed bread   馒头
+sweet ball soup 汤圆
+fish ball soup  鱼丸汤
+eight treasures porridge 八宝粥
+sweet potato porridge    地瓜粥
+soybean milk    豆浆
+hot potato      火锅
+```
+
+> 西方的节假日
+
+```
+New Year's Day 
+Valentine's Day 情人节   Valentine：一个人的名字
+Easter Day      复活节
+April Fool's Day
+Halloween       万圣节
+Thanks giving Day
+Christmas       圣诞节
+```
+
+> beautiful: 漂亮的
+
+同义词：nice\smart\lovely\good-looking\gorgeous
+
+> 电影相关
+
+```
+cinama
+film\movie
+sceen       银幕
+poporn      爆米花
+background music
+Best Actress in the year of 1953  1953年最佳女主角
+Best Actress in a Supporting Role in the year of 2013  2013年最佳女配角
+Best Directing in the year of 2013  2013年最佳导演
+```
+
+> shopping 
+
+```
+go shopping
+window shopping  逛街
+online shopping
+department store 商场
+shpping mall     购物中心
+discount
+use my card      刷卡
+```
+
+```
+Can I help you?
+I want a ... please.
+A ... please.
+Just see around.
+
+May I have a try? \ Can I have a try?
+Sure. 
+
+Is that ok?
+Do you hava a small/large size?
+
+How much is it? \ How much does it cost?
+It's ...
+Is there any discount?
+
+Can I use my credit card?
+Sure.
+Cash only please.
+```
+
+> re+
+
+```
+return
+redo
+rewrite
+remarry
+review
+```
+
+> note 纸币 coin 硬币   
+
+```
+a fifty-pound note
+two fifty-pound notes
+
+a fifty-cent coin
+a fifty cents coin
+```
+
+> 坐飞机
+
+```
+the International flight 
+the domestic flight   国内航班
+the flight number
+the business class
+the economy\tourist class 经济舱
+the air/flight ticket
+a boarding check
+the connecting flight 转机
+the non-stop flight   直飞
+the checked baggage   托运行李
+the carry-on baggage  随身行李
+the baggage claim area  行李领取处
+baggage tag 
+luggage cart       行李推车
+```
+
+```
+May I have a pillow & blanket?
+Can you put your seat upright?
+May I reline my seat?
+```
+
+> im+
+
+```
+impossible
+impolite    不礼貌的
+imperfect   不完美的
+immature    不成熟的
+immoral     不道德的
+```
