@@ -275,3 +275,54 @@ While everyone was working hard, I was enjoying my holiday.
 
 We always sing as we walk.
 ```
+
+> sound (声音) vs voice (说话的声音)
+
+> job vs work
+
+```
+He has a good job.
+I have a log of work to do.
+```
+
+> what vs how 感叹句
+
+how + adj.\adv.
+what + n.
+
+```
+How hot!
+What a hot day!
+```
+
+> have to vs must
+
+have to  不得不
+must     必须
+
+```
+Do you have to go now?
+Yes, I have to. \ No I don't have to. \ No, I don't need to.
+
+Must I pass the exam?
+Yes, please. \ I'm afraid so.
+```
+
+> overseas (adj.) vs abroad (adv.)
+
+> excited (兴奋的) vs exciting （令人兴奋的）
+
+类似的： interested interesting    moved (感动的) moving    surprised surprising   amused  amusing
+
+```
+He is surprised.
+It is surprising.
+This movie is moving.
+This man is very interesting.
+I had an amusing experience last year.
+```
+
+```
+a moving moment  一个让人感动的瞬间
+moving pictures  令人感动的照片
+```

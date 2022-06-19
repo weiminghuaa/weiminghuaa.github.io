@@ -137,3 +137,68 @@ I   love   you.
 
 I   think   (that)   he is awful.
 主    谓    （引导词）      宾
+
+
+1. 主句一般现在，从句随便 `I think I love you`
+2. 主句一般过去，从句相应过去 `SHe told reporters she felt tired.`
+
+直接引语    间接引语
+
+一般现在    一般过去
+现在完成    过去完成
+一般过去    过去完成
+一般将来    过去将来
+
+```
+susan say: "I have had breakfast."
+susan said she had had her breakfast.
+```
+
+## 定语
+
+“的”
+
+```
+a choice apple // choice 是定语
+the bread on the table // on the table 是定语
+```
+
+## 定语从句
+
+```
+He is a nice man.
+He is the man who loves my friend. // who loves my friend 是定语从句
+The general who makes the fewest mistakes is the best general. // who makes the fewest mistakes 是定语从句
+```
+
+who vs whom 
+who + 主语&宾语
+whom + 宾语
+```
+He is the man who loves my friend. // the man 做主语，用who
+He is the man whom my friend loves. // the man 做宾语，用whom
+```
+
+定语从句关系词的省略：
+1、口语
+2、先行词做宾语
+```
+They are people I met during my study in the US.
+This is a photo I took during...
+```
+
+## 条件状语从句（副词性从句）
+
+状语 adv.
+
+```
+You should have put the book where you found it.
+You will certainly succeed so long as you keep on trying.
+He won’t listen whatever you may say.
+My wift wants to know if Mary needs any help.
+```
+
+## 主语从句
+
+What I saw   made   me   very sad.
+  主语从句    谓语   宾语     宾补

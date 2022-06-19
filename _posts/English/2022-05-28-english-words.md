@@ -47,6 +47,8 @@ restroom        主要指公共厕所
 washroom        
 toilet          英国用的多，来源于法语
 loo             口语才用
+man's room      男洗手间
+lady's room
 ```
 
 > 衣服
@@ -633,4 +635,57 @@ impolite    不礼貌的
 imperfect   不完美的
 immature    不成熟的
 immoral     不道德的
+```
+
+> name + 
+
+```
+Lazy Susan   餐桌转盘
+Uncle Sam    美国政府
+average Joe  普通人
+Jack of all trades 万事通
+Murphy's Law   墨菲定律
+Dear John letter  分手信
+Adam's apple   喉结
+Roger get      收到（国际通用的通信用语）
+Rob Peter to pay Paul   挖肉补疮，无济于事
+```
+
+If you are in the English classroom to prepare for the math test, it is Rob Peter to pay Paul.
+
+> 酒店相关
+
+```
+a shower    淋浴
+a shampoo   洗发水
+a body lotion    沐浴露
+a comb      梳子
+a kettle    电热壶
+a hair dryer   电吹风
+a TV    
+a key    
+five-star hotel
+resort     度假村
+king-size  大床房
+queen-size 大号床
+```
+
+> 新闻英语
+
+```
+new \ press    新闻 
+reporter \ journalist  记着
+newspaper
+radio
+internet media
+```
+
+> sur+
+
+```
+surround    包围
+surname     姓
+surcoat
+surface     表面
+surpass     超过
 ```

@@ -84,3 +84,24 @@ in the front of the car: 在车前排
 ```
 Don't smoke! -- No smoking!
 ```
+
+## 被动语态
+
+be + done
+
+```
+He was killed last night.
+The watch is borken.
+No man is born wise or learned 没有人天生就知道
+He was born in 1984.
+I am hurt.
+The lady is dressed in a larger funny hat.
+It is broken.
+He breaks it / It is borken by him.
+A new building was built.
+Don't be worried about the exam.
+He has been killed.
+He will be killed.
+He has been invited twice.
+
+```
