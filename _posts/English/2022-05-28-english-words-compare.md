@@ -326,3 +326,54 @@ I had an amusing experience last year.
 a moving moment  一个让人感动的瞬间
 moving pictures  令人感动的照片
 ```
+
+> pass vs past
+
+“Past”是「过去」的意思，可以用在时间或空间上，它可以是形容词(Adjective)、名词(Noun) 或副词(Adverb) ，但不能当动词(Verb) 用啊。
+
+“Pass”跟”Past”只差一个英文字母，可是这两个字是有差别的啊。
+“Pass”可以是动词，也可以是名词，意思可以是「通过」、「传递」、「入场券」等。
+
+> rise vs raise
+
+raise: vt. 及物动词，后面要加宾语
+rise: vi. 不及物动词，不加宾语
+
+原形（Original Form）| 第三人称单数形式（Singular From in Third Personal）| 过去式（Past Form）| 过去分词（Past Participle）|现在分词（Present Participle）
+--|--|--|--|--|
+raise|raises|raised|raise|raising|
+rise|rises|rose|risen|rising|
+
+That boy always **rises** his hand when I ask a question.
+That shelf was too low so we **raised** it a few inches.
+Heavy rains have **raised** the level of the river this year.
+I always **rise** at six o'clock.
+After the concert, everybody **rose** and clapped.
+The sun has just **risen**.
+
+> lay and lie
+
+lay: vt. 及物动词，后面要加宾语
+lie: vi. 不及物动词，不加宾语
+
+原形（Original Form）| 第三人称单数形式（Singular From in Third Personal）| 过去式（Past Form）| 过去分词（Past Participle）|现在分词（Present Participle）
+--|--|--|--|--|
+lay|lays|laid|laid|laying|
+lie|lies|lied(说谎)/lay|lied(说谎)/lain|lying|
+
+**Lay** those parcels on the floor, please.
+Where's my book? I **laid** it on that shelf a moment ago.
+Haven't you **laid** the table yet?
+It's nice to get up in the morning, but it's nicer to **lie** in bed.
+I **lay** in bed till 10 o'clock last Sunday morning.
+The children are playing a game. They've all just **lain** on the grass.
+
+lie意为“说谎；撒谎；编造谎言“时，是一个规则动词，遵循一般的变化规则，也即它的过去式和过去分词都是在 lie 后面加”d“变成 lied，例如：
+She **lies** about her age.
+She **lied** when she told me she was only 29.
+'You're **lying**,' he said baldly.
+
+> quiet vs quite
+
+quiet: 轻声的，安静的
+quite: 相当，很；非常，十分

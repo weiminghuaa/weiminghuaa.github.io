@@ -11,15 +11,77 @@ tags: English
 
 ![时态的结构](/assets/images/english/tense.png)
 
-如图，时态由时间和状态构成，各种不同的时间和状态组合，可以组成这些不同的时态：
+||时态||
+|--|--|--|
+|时间||状态|
+|过去||一般|
+|现在||进行|
+|将来||完成|
 
-```
-一般现在    一般过去    一般将来
-现在进行    过去进行    将来进行
-现在完成    过去完成    将来完成
-```
+时态由时间和状态构成，各种不同的时间和状态组合，可以组成这些不同的时态：
 
-另外还有一个过去将来时，这个有点特殊，仅由时间组成
+1. **1个时间和1个状态组合：**
+
+|过去|现在|将来|
+|--|--|--|
+|一般过去（did）|一般现在（do）|一般将来（will do）|
+|过去进行（was/were doing）|现在进行（is/am/are doing）|将来进行（可与一般将来时换用，will be doing）|
+|过去完成（had done）|现在完成（have/has done）|将来完成（will have done）|
+
+2. **完成进行时**
+
+|过去|现在|将来|
+|--|--|--|
+|过去完成进行时（had been doing）|现在完成进行时（have/has been doing）|将来完成进行时（will have been doing）
+
+a. 现在完成进行时（have/has been doing）
+
+例：We have been working on this project for over a month now.
+
+b. 过去完成进行时（had been doing）
+
+例：He had been working in a factory for years before he got this job.
+
+c. 将来完成进行时（will have been doing）
+
+例：Soon the astronauts will have been working on it for seven days.
+
+**这3种时态，是完成时态下强调进行，看起来时二级时态，这3个时态跟其他完成时态的对应关系：**
+
+|/|进行|
+|--|--|
+|现在完成（have/has done）|现在完成进行时（have/has been doing）|
+|过去完成（had done）|过去完成进行时（had been doing）|
+|将来完成（will have done）|将来完成进行时（will have been doing）|
+
+tips: have/has/had been done 这个是完成时态的被动语态，不是一个新的时态
+
+3. **过去将来时**
+
+a. 过去将来时(would do)
+
+例：She told us that she would not go with us if it rained.
+
+b. 过去将来进行时(would be doing)
+
+例：The government promised that a new highway would be being built next July.
+
+c. 过去将来完成时(would have done)
+
+例：I believed by the end of that year an advanced version of that software would have been developed, but I was wrong.
+
+d. 过去将来完成进行时(would have been doing)
+
+例：They said that by the end of the following month, the project would have been being worked for 3 years.
+
+**上述4种时态，我看了一些例子，基本上全部是宾语从句或者if条件句用的，宾语从句的主句部分时过去式，从句的will都变为would。所以这4种时态不需要特别注意，看起来是二级的时态。这4个时态跟其他时态的对应关系：**
+
+|will|would|
+|--|--|
+|一般将来（will do）|过去将来时（would do）|
+|将来进行（will be doing）|过去将来进行时（would be doing）|
+|将来完成（will have done）|过去将来完成时（would have done）|
+|将来完成进行时（will have been doing）|过去将来完成进行时（would have been doing）|
 
 ## 一般现在时
 

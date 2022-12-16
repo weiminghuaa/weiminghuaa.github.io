@@ -157,3 +157,70 @@ s+\p\,\t\,\k\
   \b\,\d\,\g\
 
 spot, star, skirt
+
+## 动词后缀 -ed 的三种发音
+
+1. 动词以元音或浊辅音结尾时，后缀 “-ed” 读作 /d/。
+
+played
+used
+paved
+slowed
+refused
+
+2. 动词以清音结尾时，后缀 “-ed” 读作 /t/。
+
+looked
+helped
+hoped
+fixed
+cracked
+noticed
+increased
+
+3. 动词以 /t/ 或 /d/ 结尾时，后缀 “-ed” 读作 /ɪd/。
+
+wanted
+needed
+printed
+moulded
+
+## 名词复数发音
+
+1. 在清辅音后，发[s，], 如 
+books [buks]
+
+2. 在浊辅音和元音后发 [z], 如 
+pigs [pigz]
+trees [tri:z]
+
+3. 在 t,d 后与前面的 [t],[d] 连起来一起读 [ts] ， [dz], 如 
+cats [kæts] 
+beds [bedz]
+
+4. 以辅音字母 s, sh, ch, x 结尾的名词，在词尾加 -es,  发 [iz] ，所以在 [s], [z], [ ʃ ], [ ʒ ], [d ʒ ],[t ʃ ] 后发 [iz]  如 
+buses[b ʌ siz]
+blouses ['blauziz]
+boxes[b ɔ ksiz] 
+bridges[brid ʒ iz]
+watches  [w ɔ t ʃ iz]
+
+作者：叛逆的狗子
+链接：https://www.jianshu.com/p/fedf897d2cc6
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+## 特殊情况发音
+
+1. read /riːd/
+过去式 read /rəd/
+过去分词 read /rəd/
+
+2. wound
+
+1) wound /wuːnd/ 
+n.（刀、枪或其他武器所致的）创伤，伤口；（感情或名誉的）损害，痛苦
+v.（武器或其他利器）伤害，使受伤；（在感情上）使受创伤
+
+2) wound /waʊnd/  past tense, past participle of wind
+v. 蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
