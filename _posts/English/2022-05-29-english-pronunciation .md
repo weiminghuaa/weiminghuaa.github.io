@@ -158,57 +158,82 @@ s+\p\,\t\,\k\
 
 spot, star, skirt
 
+## 48个英语音标表：
+
+20个元音+28个辅音
+
+一、单元音12个
+
+短元音： [i] [ə] [ɒ] [u] [Λ] [æ] [e]
+
+长元音： [i:] [ə:] [ɔ:] [u:] [ɑ:]
+
+二、双元音8个
+
+[ai] [ei] [ɔi] [au] [əu] [iə] [eə] [uə]
+
+三、清浊成对的辅音10对
+
+清辅音：[p] [t] [k] [f] [θ] [s] [tr] [ts] [∫] [t∫]
+
+浊辅音：[b] [d] [g] [v] [ð] [z] [dr] [dz] [ʒ] [dʒ]
+
+四、其他辅音8个
+
+[h] [m] [n] [ŋ] [l] [r] [w] [j]
+
 ## 动词后缀 -ed 的三种发音
 
-1. 动词以元音或浊辅音结尾时，后缀 “-ed” 读作 /d/。
+1. 动词以元音或浊辅音结尾时，后缀 “-ed” 读作 /d/
 
-played
-used
-paved
-slowed
-refused
+元音: played / slowed / appeared / lowered / ordered / tried / tired / answered / considered / carried / covered / suffered / worried
+/v/: paved / arrived / proved / removed
+/z/: refused / caused
+/n/: frightened / opened / contained / explained / returned / designed
+/l/: enabled / called / travelled
+/m/: seemed / informed / welcomed
+/dʒ/: managed / urged / changed
+/g/: dragged
 
-2. 动词以清音结尾时，后缀 “-ed” 读作 /t/。
+2. 动词以清音结尾时，后缀 “-ed” 读作 /t/
 
-looked
-helped
-hoped
-fixed
-cracked
-noticed
-increased
+/k/: looked / cracked / asked / hitchhiked
+/p/: helped / hoped / tapped / stamped / escaped
+/s/: fixed / noticed / increased / used / placed / processed / produced / dressed / passed
+/tf/: touched / rushed / overfished / marched / 
+/f/: finished / washed
 
-3. 动词以 /t/ 或 /d/ 结尾时，后缀 “-ed” 读作 /ɪd/。
+3. 动词以 /t/ 或 /d/ 结尾时，后缀 “-ed” 读作 /ɪd/
 
-wanted
-needed
-printed
-moulded
+/t/: wanted / printed / regretted / shouted
+/d/: needed / moulded / landed
 
 ## 名词复数发音
 
-1. 在清辅音后，发[s，], 如 
-books [buks]
+1. 在清辅音后，发[s]
+
+/k/: books / sharks
+/p/: pipes
+/f/: photographs
 
 2. 在浊辅音和元音后发 [z], 如 
-pigs [pigz]
-trees [tri:z]
 
-3. 在 t,d 后与前面的 [t],[d] 连起来一起读 [ts] ， [dz], 如 
-cats [kæts] 
-beds [bedz]
+元音: trees / divers / workers / factors / crews / news/ binoculars / growers / nerves
+/g/: pigs / rigs
+/n/: oceans / vibrations / balloons / heavens / lanterns / towns / rains
+/l/: whales / miles
+/v/: lives / explosives / survivors
+/m/: homes
+/dʒ/: colleges
+/θ/: clothes
 
-4. 以辅音字母 s, sh, ch, x 结尾的名词，在词尾加 -es,  发 [iz] ，所以在 [s], [z], [ ʃ ], [ ʒ ], [d ʒ ],[t ʃ ] 后发 [iz]  如 
-buses[b ʌ siz]
-blouses ['blauziz]
-boxes[b ɔ ksiz] 
-bridges[brid ʒ iz]
-watches  [w ɔ t ʃ iz]
+3. 在 t,d 后与前面的 [t],[d] 连起来一起读 [ts],[dz], 如 
 
-作者：叛逆的狗子
-链接：https://www.jianshu.com/p/fedf897d2cc6
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+/t/: cats / wits / monuments
+/d/: beds / afterwards/ towards / yards
+
+4. 以辅音字母 s, sh, ch, x 结尾的名词，在词尾加 -es,  发 [iz] , 所以在 [s], [z], [ʃ], [ʒ], [dʒ], [tʃ] 后发 [iz]
+buses / blouses / boxes / bridges / watches / cages
 
 ## 特殊情况发音
 
