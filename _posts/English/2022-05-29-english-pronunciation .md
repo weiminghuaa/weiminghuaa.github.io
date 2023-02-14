@@ -224,7 +224,6 @@ spot, star, skirt
 /l/: whales / miles
 /v/: lives / explosives / survivors
 /m/: homes
-/dʒ/: colleges
 /θ/: clothes
 
 3. 在 t,d 后与前面的 [t],[d] 连起来一起读 [ts],[dz], 如 
@@ -233,7 +232,16 @@ spot, star, skirt
 /d/: beds / afterwards/ towards / yards
 
 4. 以辅音字母 s, sh, ch, x 结尾的名词，在词尾加 -es,  发 [iz] , 所以在 [s], [z], [ʃ], [ʒ], [dʒ], [tʃ] 后发 [iz]
-buses / blouses / boxes / bridges / watches / cages
+buses / blouses / boxes / bridges / watches / cages / rises / colleges / glasses / watches / brushes
+
+5. 以f 或fe 结尾的词，先把f 改为v，再加–es，读[vz]。例如：
+knives / leaves / lives / thieves
+
+6. 以辅音字母加y 结尾的，先把y 改为i，再加-es，读[z]。例如：
+story — stories故事  city — cities城市  family — families家庭  baby — babies 婴儿
+
+注意：boy — boys 男孩  toy — toys 玩具  key — keys 钥匙
+
 
 ## 特殊情况发音
 

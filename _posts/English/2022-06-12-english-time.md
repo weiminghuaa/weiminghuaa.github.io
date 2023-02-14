@@ -74,6 +74,7 @@ in **the** morning\afternoon\evening
 ```
 in five minutes  5分钟之后 
 in two days      两天之后
+in a few years   几年之后
 
 in one minute's time   在1分钟的时间里
 in five minutes' time  在5分钟的时间里
@@ -116,10 +117,11 @@ just: I've just arrived by train.
 a moment ago
 a shot time ago
 
-1. 不久，不久之后
+1. 不久，不久之后, 过了一会
 soon: He will soon visit Darwin. // 很快
 shortly: He will visit Darwin shortly.
 after a while: I saw Tony Steele after a while
+After a little time: **After a little time,** she choose one of the most expensive dresses in the shop
 In a few minutes: In a few minutes, he returned with my bag and gave it back to me
 some time later: But some time later it began to rain
 
@@ -165,10 +167,14 @@ the New Year / on New Year's Eve
 
 1. 那时
 at that moment
+at that time: At that time he had two helpers.
 
 1. 多年以前
 many years ago: The instrument was bought by my grandfather many years ago.
 years ago: Tony worked in a layer's office years ago
+
+1. 几年后
+in a few years: **In a few years** the small workshop had became a large factory which employed seven hundred and twenty-eight people.
 
 1. 最近
 recently / lately
@@ -213,3 +219,25 @@ for a moment: She looked at it critically for a moment.
 
 1. 前几天
 the other day: I met a man the other day.
+
+1. 20多岁的时候
+In his twenties: **In his twenties** Frank used to make spare parts for aeroplanes.
+
+1. 几乎过了一个星期
+Nearly a week passed: **Nearly a week passed** before the girl was able to explain **what had happened to her**.
+
+1. 天将黑时
+Towards evening: **Towards evening**, the boat struck a rock and the girl jumped into the sea.
+
+1. 第二天凌晨
+Early next morning: **Early next morning**, she saw a light **ahead**.
+
+1. 前不久
+A short while ago: A short while ago, however, he became a bus driver and he has not **regretted** it.
+
+1. 没过多久
+Shortly afterwards: **Shortly afterwards**, the police **stopped** the car and both men were arrested.
+
+1. 早上5点钟
+at five o'clock in the morning: She is going to set out from the French coast at five o'clock in the morning.
+

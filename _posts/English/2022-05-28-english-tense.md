@@ -5,11 +5,9 @@ date: 2022-05-28 15:30:35.000000000 +08:00
 tags: English
 ---
 
-时态是英语非常重要的概念
+时态是英语非常重要的概念，共有16种时态，分为一般现在时（do），一般过去时（did），一般将来时（will do)，现在进行时(is/am/are doing)，过去进行时(was/were doing)，将来进行时(可与一般将来时换用，will be doing)，现在完成时(have/has done)，过去完成时(had done)，发生在一般过去时的动作之前），将来完成时(will have done)，现在完成进行时（have/has been doing)，过去完成进行时(had been doing)，将来完成进行时(will have been doing)，过去将来时(would do)，过去将来进行时(would be doing)，过去将来完成时(would have done)，过去将来完成进行时(would have been doing)等。
 
 ## 时态结构
-
-![时态的结构](/assets/images/english/tense.png)
 
 ||时态||
 |--|--|--|
@@ -18,9 +16,9 @@ tags: English
 |现在||进行|
 |将来||完成|
 
-时态由时间和状态构成，各种不同的时间和状态组合，可以组成这些不同的时态：
+时态由时间和状态构成，各种不同的时间和状态组合
 
-1. **1个时间和1个状态组合：**
+### 一、1个时间和1个状态组合
 
 |过去|现在|将来|
 |--|--|--|
@@ -28,7 +26,7 @@ tags: English
 |过去进行（was/were doing）|现在进行（is/am/are doing）|将来进行（可与一般将来时换用，will be doing）|
 |过去完成（had done）|现在完成（have/has done）|将来完成（will have done）|
 
-2. **完成进行时**
+### 二、完成进行时
 
 |过去|现在|将来|
 |--|--|--|
@@ -46,7 +44,7 @@ c. 将来完成进行时（will have been doing）
 
 例：Soon the astronauts will have been working on it for seven days.
 
-**这3种时态，是完成时态下强调进行，看起来时二级时态，这3个时态跟其他完成时态的对应关系：**
+**这3种完成时态，是完成时态下强调进行，看起来时二级时态，这3个时态跟其他完成时态的对应关系：**
 
 |/|进行|
 |--|--|
@@ -56,7 +54,7 @@ c. 将来完成进行时（will have been doing）
 
 tips: have/has/had been done 这个是完成时态的被动语态，不是一个新的时态
 
-3. **过去将来时**
+### 三、过去将来时
 
 a. 过去将来时(would do)
 
@@ -74,7 +72,7 @@ d. 过去将来完成进行时(would have been doing)
 
 例：They said that by the end of the following month, the project would have been being worked for 3 years.
 
-**上述4种时态，我看了一些例子，基本上全部是宾语从句或者if条件句用的，宾语从句的主句部分时过去式，从句的will都变为would。所以这4种时态不需要特别注意，看起来是二级的时态。这4个时态跟其他时态的对应关系：**
+**上述4种过去将来时态，我看了一些例子，基本上全部是宾语从句或者if条件句用的，宾语从句的主句部分时过去式，从句的will都变为would。所以这4种时态不需要特别注意，看起来是二级的时态。这4个时态跟其他时态的对应关系：**
 
 |will|would|
 |--|--|
@@ -82,6 +80,7 @@ d. 过去将来完成进行时(would have been doing)
 |将来进行（will be doing）|过去将来进行时（would be doing）|
 |将来完成（will have done）|过去将来完成时（would have done）|
 |将来完成进行时（will have been doing）|过去将来完成进行时（would have been doing）|
+
 
 ## 一般现在时
 

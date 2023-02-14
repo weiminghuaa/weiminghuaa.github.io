@@ -535,6 +535,9 @@ review KS30 SD9
 
 2. Special difficulties - I use, I am used to, I used to
 
+used to: 过去常常
+be used to: 习惯于
+
 ## Lesson 56
 
 1. Key structures 关键句型 - 比较级
