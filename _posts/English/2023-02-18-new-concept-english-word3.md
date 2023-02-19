@@ -20,19 +20,24 @@ spot [spɔt] v.看出，发现 (e.g., When reports came into London Zoo that a w
 
 evidence ['evidәns] n.证据 (e.g., However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.)
 > This evidence can prove your guilt.
+
 > He was released when the judge ruled there was no evidence against him.
 
 accumulate [ә'kju:mjuleit] v.积累，积聚 (e.g., )
 > As to-do things accumulated, the to-do list got longer and longer, and i got more and more pressures.
+
 > By investing wisely she accumulated a fortune.
 
 oblige [ә'blaidʒ] v.使…感到必须 (e.g., )
 > As job opportunities became less than before, i felt obliged to get a postgraduate degree as soon as possible.
-> he suffered a serious injury that obliged him to give up work.
+
+> He suffered a serious injury that obliged him to give up work.
 
 hunt [hʌnt] n.追猎；寻找；v.打猎 (e.g., The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.)
 > Only rich men are able to have time and money to hunt in Africa.
+
 > Lions sometimes hunt alone.
+
 > She is still hunting for a new job.
 
 blackberry ['blækbәri] n.黑莓 (e.g., )
@@ -40,16 +45,20 @@ blackberry ['blækbәri] n.黑莓 (e.g., )
 
 human ['hju:mәn] 人类 (e.g., It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.)
 > Humans are very greedy for resource.
+
 > We must allow for human error.
 
 corner ['kɔ:nә] v.使走投无路，使陷入困境；n.角落 (e.g., )
 > He was cornered to kill his boss.
+
 trail [treil] n.一串，一系列 (e.g., Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.)
 > I made a series of mistake in career planning. (trail 是一系列的踪迹，足迹，印记)
+
 > The hurricane left a trail of destruction behind it.
 
 print [print] n.印痕 (e.g., Paw prints were seen in a number of places and puma fur was found clinging to bushes. )
 > Reduce print unless you really need.
+
 > Click on the icon when you want to print.
 
 cling [kliŋ] v.粘 (e.g., )
@@ -57,14 +66,17 @@ cling [kliŋ] v.粘 (e.g., )
 
 convince [kәn'vins] v.使…信服 (e.g., The experts were now fully convinced that the animal was a puma, but where had it come from?)
 > I can’t be convinced that Chinese medicine can cure the COVID.
+
 > I’m convinced that she is incorrect.
 
 somehow ['sʌmhau] ad.不知怎么搞的，不知什么原因 (e.g.,  As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.)
 > She looked different somehow.
+
 > Somehow, I don’t feel I can trust him.
 
 disturb [dis'tә:b] v.令人不安 (e.g., It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.) 
 > It is disturbing to think that my body has so many problem.
+
 > It disturbed her to realize that she was alone.
 
 Lesson 2
@@ -73,14 +85,19 @@ equal ['i:kwәl] v.等于 (e.g., Thirteen equals one)
 >
 
 vicar ['vikә] n.牧师 (e.g., Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.)
+
 raise ['reiz] v.募集，筹(款) (e.g., )
+> We are raising money for charity.
+
 torchlight ['tɔ:tʃlait] n.电筒光 (e.g., In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.)
- 
+> Surgeons are performing operations in tents by torchlight.
+
 
 Lesson 3
 
 goddess ['gɔdis] n.女神 (e.g., An unknown goddess)
 > He adored her as a goddess.
+
 archaeologist ['a:ki'ɔlәdʒist] n.考古学家 (e.g., Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.)
 > Her novel featured a mummy coming back to life and seeking revenge against an archaeologist.
 
@@ -94,26 +111,32 @@ promontory ['prɔmәntәri] n.海角 (e.g., )
 
 prosperous ['prɔspәrәs] a.(经济上)繁荣的，昌盛的 (e.g., The city at one time must have been prosperous, for it enjoyed a high level of civilization.)
 > In the past 40 years, China’s economy has been very prosperous.
+
 > Barcelona has become a one of the most dynamic and prosperous cities in the Mediterranean.
 
 civilization ['sivilai'zeiʃәn] n.文明 (e.g., )
 > China is one of the four ancient civilizations.
+
 > Environmental damage threatens the whole of civilization.
 
 storey ['stɔ:ri] n.楼层 (e.g., Houses -- often three storeys high -- were built of stone.)
 > Our house in country is three storeys high.
+
 > The suspect took a leap out of a third-story window.
 
 drainage ['dreinidʒ] n.排水 (e.g., The city was equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.)
 > The street drainage system in Guangzhou is poor, cause waterlogging often occurs during heavy rains.
+
 > The area has good natural drainage.
 
 worship ['wә:ʃip] n.祟拜 (e.g., The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times.)
 > I’m 40 and I don’t worship stars anymore.
+
 > He prefers to worship in his own home.
 
 sacred ['seikrid] a.宗教的，神圣的 (e.g., In the most sacred room of temple, clay fragments of fifteen statues were found. )
 > I’m an atheist and I think only science is sacred.
+
 > Cows are sacred to Hindus.
 
 fragment ['frægmәnt] n.碎片 (e.g., )
@@ -127,6 +150,7 @@ classical ['klæsikәl] a.(希腊和罗马)古文化的 (e.g., This head must ha
 
 reconstruct ['ri:kәns'trʌkt] v.修复 (e.g., When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. )
 > I’ve seen a very interesting documentary: I reconstructed antique in the Forbidden City.
+
 > The government must reconstruct the shattered economy.
 
 rest [rest] v.倚放，放置 (e.g., She stood three feet high and her hands rested on her hips.)
@@ -134,6 +158,7 @@ rest [rest] v.倚放，放置 (e.g., She stood three feet high and her hands res
 
 hip [hip] n.屁股，臀部 (e.g., )
 > Big Breasts and Wide Hips is a novel by Mo Yan. It won Dajia Honghe Litterature Prize in 1997.
+
 > She stood with her hands on her hips.
 
 full-length a.(裙衣)拖地长的 (e.g., She was wearing a full-length skirt which swept the ground.)
@@ -150,79 +175,164 @@ Lesson 4
 
 manual ['mænjuәl] a.体力的 (e.g., These days, people who do manual work often receive far more money than people who work in offices.)
 > In my opinion, manual work not only earn money, but exercise body as well.
+
 > My camera has manual and automation functions.
 
 collar ['kɔlә] n.衣领 (e.g., People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.)
 > White-collar workers are just look good, but in fact the work is not easy.
+
 > White-collar workers now work longer hours.
 
 sacrifice ['sækrifais] v.牺牲，献出 (e.g., Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. )
 > I would sacrifice everything for my family.
+
 > I thanked my parents for all their self-sacrifice on my behalf.
 
 privilege ['privilidʒ] n.好处，特权 (e.g., )
 > The privileged class is always disgusting.
+
 > He arrogated the privilege to himself alone.
 
 dustman ['dʌstmәn] n.清洁工 (e.g., This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.)
 > Dustman’s work is really hard.
+
 > The old dustman has been working on this street for 20 years.
 
 corporation ['kɔ:pә'reiʃәn] n.公司 (e.g., )
 > It is really comfortable to work in the world's top 500 corporation.
+
 > He was a stockholder in a hotel corporation.
 
 overalls n.工作服 (e.g., He then changed into overalls and spent the next eight hours as a dustman. )
 > I have never seen well designed overalls.
+
 > The mechanic was wearing a pair of blue overalls.
 
 shower ['ʃәuә, 'ʃauә] n.淋浴 (e.g., Before returning home at night, he took a shower and changed back into his suit. )
 > I often spend half an hour taking a shower.
+
 > She usually sings in the shower.
 
 secret ['si:krit] n.秘密 (e.g., Alf did this for over two years and his fellow dustmen kept his secret.)
 > Everyone has their own little secret.
+
 > The meeting was held in secret.
 
 status ['steitәs] n.地位 (e.g., He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. )
 > My family status is low.
+
 > The party was denied legal status.
 
 
 Lesson 5
 
 editor ['editә] n.编辑 (e.g., Editors of newspapers and magazines often go to extremes to provide their reader with unimportant facts and statistics. )
+> He is the editor-in-chief of the Global Daily.
+
+> We're losing a first-rate editor in Jen.
+
+> The editor struck out the whole paragraph.
+
 extreme [iks'tri:m] n.极端 (e.g., )
+> His views tend towards the extreme.
+
+> Extremism often leads to disaster, but sometimes revolution is necessary.
+
 statistics [stә'tistiks] n.统计数字 (e.g., )
+> China doesn't publish real statistics about COVID.
+
+> I felt I was no longer being treated as a person but as a statistic.
+
 journalist ['dʒә:nәlist] n.新闻记者 (e.g., Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.)
+> Independence of journalists is important in modern society.
+
+> My job as a journalist is to exprose the truth.
+
 president ['prezidәnt] n.总统 (e.g., )
+> He was sworn in as president.
+
 palace ['pælis] n.王宫；宏伟的住宅 (e.g., )
+> The Forbidden City is a beautiful palace.
+
+> We drove through the palace gates.
+
 publish ['pʌbliʃ] v.出版 (e.g., When the article arrived, the editor read the first sentence and then refuse to publish it.)
+> They only publish novels which cater to the mass-market.
+
 fax [fæks] n.传真 (e.g., The editor at once sent the journalist a fax instructing him find out the exact number of steps and the height of the wall.)
-impatient [im'peiʃәnt] a.不耐烦的 (e.g., The journalist immediately set out to obtain these important facts, but the took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press.)
+> Fax is rarely used now.
+
+> Can you send it to me by fax?
+
+impatient [im'peiʃәnt] a.不耐烦的 (e.g., The journalist immediately set out to obtain these important facts, but he took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press.)
+> They were impatient at the delay.
+
 fire ['faiә] v.解雇 (e.g., He sent yet another fax informing the journalist that if he did not reply soon he would be fired.)
+> I was fired by VipShop last year.
+
 originally [ә'ridʒәnәli] ad.起初，原先，从前 (e.g., When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written.)
+> She comes originally from York.
+
+> The island was originally circular in shape.
  
 
 Lesson 6
 
 smash-and-grab  n.砸窗户抢劫
+> Not only do they rob you, but they also smash everything.
+
+> Someone's grabbed my seat.
 
 arcade [a:'keid] n.有拱廊的街道(两旁常设商店) (e.g., At this time of the morning, the arcade was almost empty. )
+> There are many arcades in the old city of Guangzhou.
+
+> We know this new shopping arcade is ready for lease.
+
 Piccadilly [pikә'dili] n.皮卡迪利大街（伦敦市中心一条著名的街道） (e.g., )
+
 jewellery ['dʒu:әlri] n.珠宝(总称) (e.g., Mr. Taylor, the owner of a jewellery shop was admiring a new display.)
+> Every woman loves Jewellery.
+
+> She has some lovely pieces of jewellery.
+
 necklace ['neklis] n.项链 (e.g., Diamond necklaces and rings had been beautifully arranged on a background of black velvet. )
+> When did you first miss the necklace?
+
 ring [riŋ] n.戒指；环形物 (e.g., )
+> I don't understand the film: Lord of the Rings
+
 background ['bækgraund] n.背景 (e.g., )
+> Her background militates against her.
+
 velvet ['velvit] n.天鹅绒，丝绒 (e.g., )
-headlight ['hedlait] n.(汽车等)前灯 (e.g., The silence was suddenly broken when a large car, with its headlights on and its home blaring, roared down the arcade. )
+> She was clad in blue velvet.
+
+headlight ['hedlait] n.(汽车等)前灯 (e.g., The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. )
+> The car needs a new headlight.
+
 blare [blєә] v.发嘟嘟声，吼叫 (e.g., )
+> The music begins with a blare of trumpets.
+
 staff [sta:f] n.全体工作人员 (e.g., He and his staff began throwing furniture out of the window.)
+> How many full-time staff have we got?
+
 raid [reid] n.偷袭 (e.g., The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.)
+> Why Japan raid Pearl Harbor?
+
+> It sounds like an air raid siren.
+
 scramble ['skræmbl] v.爬行 (e.g., )
+> She managed to scramble out of the vehicle as it burst into flames.
+
 fantastic [fæn'tæstik] a.非常大的 (e.g., )
+> I got a fantastic new job and my salary tripled.
+
 ashtray ['æʃtrei] n.烟灰缸 (e.g., Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. )
- 
+> We don't have ashtray at home because no one smokes.
+
+> I emptied the ashtray.
+
+
 
 Lesson 7
 
