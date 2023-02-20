@@ -337,29 +337,60 @@ ashtray ['æʃtrei] n.烟灰缸 (e.g., Just as it was leaving, Mr. Taylor rushed
 Lesson 7
 
 mutilate ['mju:tileit] v.使残缺不全，毁坏 (e.g., Mutilated ladies)
-chew [tʃu:] v.咀嚼 (e.g., Dogs, it seems, love to chew up money!)
-fiancé [fi'ɑ:nsei] n.未婚夫 (e.g., A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business.)
-microwave ['maikrәweiv] n.微波，微波炉 (e.g., John had very good day and put his wallet containing $3,000 into the microwave oven for safekeeping.)
-oven ['ʌvn] n.炉灶 (e.g., )
-safekeeping ['seif'ki:piŋ] n.妥善保管 (e.g., )
-Newcastle ['nju:'ka:sl] n.纽卡斯尔(英国港口城市) (e.g., )
-identify [ai'dentifai] v.鉴定，识别 (e.g., 'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank. )
-spokeswoman  n.女发言人
+> The body had been badly mutilated.
 
+chew [tʃu:] v.咀嚼 (e.g., Dogs, it seems, love to chew up money!)
+> He is always chewing gum.
+
+fiancé [fi'ɑ:nsei] n.未婚夫 (e.g., A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business.)
+>
+
+microwave ['maikrәweiv] n.微波，微波炉 (e.g., John had very good day and put his wallet containing $3,000 into the microwave oven for safekeeping.)
+> I want to buy a new microwave oven, for the old one is smell ugly when open the door, it must be very dirty.
+
+oven ['ʌvn] n.炉灶 (e.g., )
+> Take the cake out of the oven.
+
+safekeeping ['seif'ki:piŋ] n.妥善保管 (e.g., )
+> Those papers are in safekeeping with him.
+
+Newcastle ['nju:'ka:sl] n.纽卡斯尔(英国港口城市) (e.g., )
+
+identify [ai'dentifai] v.鉴定，识别 (e.g., 'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank. )
+> First of all we must identify the problem areas.
+
+spokeswoman  n.女发言人
+> A spokeswoman for the government denied the rumours.
  
 
 Lesson 8
 
-monastery ['mɔnәstri] n.寺院，修道院 (e.g., The famous monastery of St. Bernard, witch was founded in eleventh century, lies about a mile away.)
+monastery ['mɔnәst(e)ri] n.寺院，修道院 (e.g., The famous monastery of St. Bernard, witch was founded in eleventh century, lies about a mile away.)
+> China has many monasteries and its always beautiful.
+
 St.Bernard      圣伯纳德
 
 pass [pa:s] n.关隘 (e.g., For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass.)
+> When you go to Tibet, there are many high-altitude mountain passes on the way.
+
 watchdog ['wɔtʃdɔ:g] n.看门狗 (e.g., These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.)
+> The iOS system has a watchdog to kill the app which occupy large memory when memory is tight.
+
 rashly ['ræʃli] a.莽撞地，冒失地 (e.g., Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.)
+> She has rashly promised to lend him the money.
+
 enclosure [in'klәuʒә] n.围场，圈地  (e.g., As there are so many people about, the dogs have to be kept in a special enclosure. )
+> Within that enclosure, there is a large, open courtyard.
+
 monk [mʌŋk] n.和尚，僧侣,修道士 (e.g., The monks prefer winter to summer of they have more privacy. )
+> Many monks in china is working for money.
+
 privacy ['praivәsi] n.清静，隐居  (e.g., )
+> French privacy laws are very strict.
+
 skier ['ski:ә] n.滑雪者  (e.g., The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.)
+> He is an enthusiastic skier.
+
 Easter ['i:stә] n.复活节 (e.g., )
  
 
