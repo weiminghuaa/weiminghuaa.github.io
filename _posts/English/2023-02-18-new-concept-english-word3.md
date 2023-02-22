@@ -251,7 +251,7 @@ journalist ['dʒә:nәlist] n.新闻记者 (e.g., Last year a journalist had bee
 president ['prezidәnt] n.总统 (e.g., )
 > He was sworn in as president.
 
-palace ['pælis] n.王宫；宏伟的住宅 (e.g., )
+palace ['pæləs] n.王宫；宏伟的住宅 (e.g., )
 > The Forbidden City is a beautiful palace.
 
 > We drove through the palace gates.
@@ -365,7 +365,7 @@ spokeswoman  n.女发言人
 
 Lesson 8
 
-monastery ['mɔnәst(e)ri] n.寺院，修道院 (e.g., The famous monastery of St. Bernard, witch was founded in eleventh century, lies about a mile away.)
+monastery ['mɔnәst(e)ri] n.寺院，修道院 (e.g., The famous monastery of St. Bernard, which was founded in eleventh century, lies about a mile away.)
 > China has many monasteries and its always beautiful.
 
 St.Bernard      圣伯纳德
@@ -382,7 +382,7 @@ rashly ['ræʃli] a.莽撞地，冒失地 (e.g., Despite the new tunnel, there a
 enclosure [in'klәuʒә] n.围场，圈地  (e.g., As there are so many people about, the dogs have to be kept in a special enclosure. )
 > Within that enclosure, there is a large, open courtyard.
 
-monk [mʌŋk] n.和尚，僧侣,修道士 (e.g., The monks prefer winter to summer of they have more privacy. )
+monk [mʌŋk] n.和尚，僧侣,修道士 (e.g., The monks prefer winter to summer for they have more privacy. )
 > Many monks in china is working for money.
 
 privacy ['praivәsi] n.清静，隐居  (e.g., )
@@ -397,89 +397,216 @@ Easter ['i:stә] n.复活节 (e.g., )
 Lesson 9
 
 fascinate ['fæsineit] v.迷住，吸引住 (e.g., Cats never fail to fascinate human beings. )
-affectionate [ә'fekʃnit] a.充满深情的，柔情的 (e.g., They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. )
+> China has always fascinated me. 
+
+affectionate [əˈfekʃənət] a.充满深情的，柔情的 (e.g., They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. )
+> He is very affectionate towards his children.
+
 mysterious [mis'tiәriәs] a.神秘的，难以理解的 (e.g., )
+> A mysterious young woman is living next door.
+
 submissive [sʌb'misiv] a.服从的，顺从的 (e.g., They never become submissive like dogs and horses. )
+> He expected his daughters to be meek and submissive.
+
 feline ['fi:lain] a.猫的 (e.g., As a result, humans have learned to respect feline independence. )
+> She walks with feline grace.
+
 independence ['indi'pendәns] n.独立，独立性 (e.g., )
+> He values his independence.
+
 high-rise  a.高层的 (e.g., There are plenty of high-rise windowsills to fall from!)
+> We live in a high-rise apartment downtown.
+
 windowsill  n.窗槛，窗台 (e.g., )
+> Place the plants on a sunny windowsill.
+
 paratrooper ['pærәtru:pә] n.伞兵 (e.g., Cats behave like well-trained paratroopers.)
+> The new paratrooper was almost kicked out of the cabin.
+
 squirrel ['skwirәl] n.松鼠 (e.g., They stretch out their legs like flying squirrels. )
+> The squirrel is climbing a tree.
+
 air-resistance  n.空气阻力 (e.g., This increases their air-resistance and reduces the shock of impact when they hit the ground.)
+> Reduce the air-resistance to minimum.
+
 impact ['impækt] n.冲击力 (e.g., )
- 
+> A violent impact hurtled her forward.
 
 Lesson 10
 
 Southampton [sauθ'æmptәn,sauθ'hæmptәn] n.南安普敦(英国港口城市) (e.g., )
+
 colossal [kә'lɔsl] a.庞大的,巨大的 (e.g., Even by modern standards, the 46,000 ton Titanic was a colossal ship. )
+> There has been a colossal waste of public money.
+
 watertight  a.不漏水的 (e.g., At the time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments.)
+> The rules state that samples must be enclosed in two watertight containers.
+
 compartment [kәm'pa:tmәnt] n.(轮船的)密封舱 (e.g., )
+> The desk has a secret compartment.
+
 flood [flʌd] v.充满水  (e.g., Even if two of these were flooded, she would still be able to float. )
+> The heavy rain has caused floods in many parts of the counrty.
+
 float [flәut] v.漂浮，飘浮 (e.g., )
+> An idea suddenly floated into my mind.
+
 tragic ['trædʒik] a.悲惨的 (e.g., The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.)
+> He was killed in a tragic accident at the age of 24.
+
 liner ['lainә] n.班船, 大客轮；班机 (e.g., )
+> How did you captain an ocean liner?
+
 voyage [vɔidʒ] n.航行 (e.g., )
+> The Titanic sank on its maiden voyage.
+
 iceberg ['aisbә:g] n.冰山 (e.g., Four days after setting out, while the Titanic was sailing across the icy water of the North Atlantic, huge iceberg was suddenly spotted by a lookout.)
+> The above complaints are, I suspect, just the tip of the iceberg.
+
 lookout ['luk'aut] n.瞭望员 (e.g., )
+> He kept a sharp lookout for any strangers.
+
 collision [kә'liʒ(ә)n] n.碰撞 (e.g., After the alarm had been given, the great ship turned sharply to avoid a direct collision. )
+> Their car was in a head-on collision with a truck.
+
 narrowly ['nærouli] ad.刚刚，勉强地 (e.g., The Titanic turned just in time, narrowly missing the immense walk of ice which rose over 100 feet out of the water beside her. )
+> Narrowly self-interested behaviour is ultimately self-defeating.
+
 miss [mis] v.避开 (e.g., )
+> I miss you.
+
 slight [slait] a.轻微的 (e.g., Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. )
+> There was a slight collision but my car was undamaged.
+
 tremble ['trembl] v.震颤 (e.g., )
-faint [feint] a.微弱的 (e.g., The noise had been so faint that no one though that the ship had been damaged.)
+> I will never forget the look on the patient's face, the tremble in his hand.
+
+faint [feint] a.微弱的 (e.g., The noise had been so faint that no one thought that the ship had been damaged.)
+> His ears caught a faint cry.
+
 horror ['hɔrә] n.恐惧 (e.g., Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded!)
+> Guilt and horror flooded her in waves.
+
 abandon [ә'bændәn] v.抛弃 (e.g., The order to abandon ship was given and hundreds of people plunged into the icy water.)
+> They had to abandon their lands to the invading forces.
+
 plunge [plʌndʒ] v.投入，跳入；陷入 (e.g., )
+> She lost her balance and plunged 100 feet to her death.
+
 lifeboat  n.救生船 (e.g., As there were not enough lifeboats for everybody, 1,500 lives were lost.)
+> A lifeboat picked up survivors.
  
 
 Lesson 11
 
 guilty ['gilti] a.犯罪的，违法的 (e.g.,  Even really honest people are often made to feel guilty.)
+> He pleaded guilty to murder.
+
 tolerant ['tɔlәrәnt] a.宽容的 (e.g., Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare.)
+> He has a very tolerant attitude towards other religions. 
+
 declare [di'klєә] v.申报 (e.g., )
-hardened        a.有经验的
+> Do you have anything to declare?
 
 professional [prә'feʃәnl] a.职业的，专业的 (e.g.,The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. )
+> If it's a legal matter you need to seek professional advice
+
+hardened [ˈhɑːd(ə)nd] a.有经验的
+>
+
 smuggler ['smʌglә] n.走私者 (e.g., )
+> Many people who come to Shenzhen from Hong Kong are smugglers.
+
 officious [ә'fiʃәs] a.爱管闲事的 (e.g.,When I returned form abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler. )
+> He is an officious leader.
+
 confidently  ad.自信地
+> You must act boldly and confidently.
 
 dreadful ['dredful] a.可怕的，一团糟的 (e.g., The Officer went through the case with great care. All the thing I had packed so carefully were soon in a dreadful mess.)
+> It's that dreadful murder.
+
 pounce [pauns] v.猛抓，扑住 (e.g.,He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight. )
+> The lion crouched ready to pounce.
+
 perfume ['pә:fju:m, pә:'fju:m] n.香水 (e.g.,'Perfume, eh?' he asked sarcastically. 'You should have declared that. Perfume is not exempt from import duty.')
+> What does the perfume smell like?
+
 sarcastically [sa:'kæstikәli] ad.讽刺地 (e.g., )
+> She asked sarcastically.
+
 exempt [ig'zempt] a.被免除的 (e.g., )
+> The interest on the money is exempt from tax. (这笔钱的利息免税。)
+
 duty ['dju:ti] n.税 (e.g., )
+> It is my duty to report it to the police.
+
 gel [dʒel] n.凝胶，发胶 (e.g., It's hair gel.)
+> The gel gives your hair a gloss.
+
 mixture ['mikstʃә] n.混合物 (e.g., It's a strange mixture I make myself.)
-unscrew [ʌn'skru:] v.拧开 (e.g.,The officer unscrewed the cap and put the bottle to his nostrils )
-nostril ['nɔstril] n.鼻孔 (e.g., )
+> Concrete is a mixture of sand and cement.
+
+unscrew [ʌn'skru:] v.拧开 (e.g.,The officer unscrewed the cap and put the bottle to his nostrils. )
+> I can't unscrew the lid of this jar.
+
+nostril ['nɒstrəl] n.鼻孔 (e.g., )
+> Use thumb to close of right nostril.
+
 chalk [tʃɔ:k] n.粉笔 (e.g.,A few minutes later, I was able to hurry away with precious chalk marks on my baggage.)
+> You may chalk it on the wall.
+
 baggage ['bægidʒ] n.行李 (e.g., )
+> The baggage hall was crowded and noisy.
  
 
 Lesson 12
 
-desert ['dezәt, di'zә:t] v.(军队中)开小差 (e.g.,Most of us have formed an unrealistic picture of life on a desert island.  )
+desert ['dɪˈzɜːt] v. 擅离（部队）；逃走；开小差抛弃，离弃，遗弃（某人）
+desert ['dezәt] n. 沙漠；荒漠；荒原(e.g.,Most of us have formed an unrealistic picture of life on a desert island.  )
+> Somalia is mostly desert.
+
 unrealistic ['ʌnriә'listik] a.不真实的 (e.g., )
+> It is unrealistic to expect them to be able to solve the problem immediately.
+
 paradise ['pærәdais] n.天堂，乐土 (e.g.,We sometimes imagine a desert island to be a sort of paradise where the sun always shines. )
+> The ancient Egyptians saw paradise as an idealized version of their own lives. 
+
 wretched ['retʃid] a.可怜的，艰苦的 (e.g., Life on a desert island is wretched.)
+> I felt wretched about the way things had turned out.
+
 starve [sta:v] v.挨饿 (e.g.,You either starve to death or live like Robinson Crusoe, Waiting for a boat which never comes.  )
-element ['elimәnt] n.成分 (e.g., Perhaps there is an element of truth in both these pictures, but few us have had the opportunity to find out.)
+> The animals were left to starve to death.
+
+element ['elimәnt] n.成分 (e.g., Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.)
+> The story has all the elements of a soap opera.
+
 opportunity ['ɔpә'tju:niti] n.机会 (e.g., )
+> There was no opportunity for further discussion. 
+
 coral ['kɔrәl] n.珊瑚 (e.g., Two men who recently spent five days on a coral island wished they had stayed there longer.)
+> The island is encircled by a coral reef.
+
 Virgin ['vә:dʒin] 维尔京群岛 (e.g.,They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.  )
+
 Miami [mai'æmi] n.迈阿密(美国最南的城市) (e.g., )
-dinghy          n.救生筏，小船
+
+dinghy [ˈdɪŋɡi] n.救生筏，小船
+> The dinghy sailed smoothly across the lake.
 
 Caribbean ['kæri'bi:әn] n.加勒比海 (e.g., They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island)
+
 spear [spiә] 捕鱼枪 (e.g., As they had brought a spear gun with them, they had plenty to eat.)
+> Have you seen my spear? It's the sharpest in the world.
+
 lobster ['lɔbstә] n.龙虾 (e.g., hey caught lobster and fish every day，and, as one of them put it 'ate like kings'. )
+> I'll grill the lobster.
+
 tanker ['tæŋkә] n.油轮 (e.g., When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.)
-genuinely  ad.由衷地
+> A Greek oil tanker has run aground.
+
+genuinely [ˈdʒenjuɪnli] ad.由衷地
+> He genuinely cares about his employees.
 
 Robinson Crusoe    鲁滨孙·克鲁索(《鲁滨孙漂流记》主人公)
 
@@ -488,6 +615,7 @@ Robinson Crusoe    鲁滨孙·克鲁索(《鲁滨孙漂流记》主人公)
 Lesson 13
 
 costume ['kɔstju:m] n.化装服 (e.g., She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.)
+
 consist [kәn'sist] v.由…组成 (e.g., Though the costume consisted only of a sheet, it was very effective.)
 sheet [ʃi:t] n.被单 (e.g., )
 effective [i'fektiv] a.有明显效果的，有作用的; 生效的 (e.g., )
@@ -498,6 +626,7 @@ meter [ 'mi:tә] n.电表 (e.g., )
 pace [peis] n.一步 (e.g., The man let out cry and jumped back several paces.)
 flee [fli:] v.逃走 (e.g., When Mrs. Richards walked towards him, he fled, slamming the door behind him.)
 slam [slæm] v.砰地关上 (e.g., )
+
 Lesson 14
 
 gangster ['gæŋstә] n.歹徒，强盗 (e.g., There was a tine when the owners of shops and businesses in Chicago that to pay large sums of money to gangsters in return for 'protection.')
