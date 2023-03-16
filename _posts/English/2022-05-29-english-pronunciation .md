@@ -257,3 +257,74 @@ v.（武器或其他利器）伤害，使受伤；（在感情上）使受创伤
 
 2) wound /waʊnd/  past tense, past participle of wind
 v. 蜿蜒；使喘不过气；缠绕（wind 的过去式和过去分词形式）
+
+## Pre
+
+1. pre出现在已存在的单词💰，读 pri:
+
+presupposition
+prearranged
+preconceived
+prejudge
+prefix
+preview
+
+2. pre with no pre-existing word 没有规律，靠自己去背
+
+读 pri:
+
+prequel
+prefect
+precept
+preempt
+
+present v. /prɪˈzent/
+prevail
+prevent
+presume
+
+读 pre：
+
+present n. /prezent/
+premonition
+preface
+prevalent
+preppy
+
+## con
+
+```
+拿一个大家熟悉的单词来做讲解。
+
+consider. /kənˈsɪdər/
+
+字母con部分所对应的发音为非重读部分，重读音节在后面，为部分字母si 所对应的发音/sɪ/,
+
+所以，
+
+单词开头非重读部分元音的发音实际上进行了弱化，变成了/ə/.
+
+注意这里说的重音 不仅包括重读音节，还包括次重读音节哟。
+
+比如说confidential， /ˌkɑnfəˈdenʃəl/ 开头的con对应的发音虽然不是重读音节所在，但是是次重读音节，所以con 读作/kɑn/, 而不是/kən/。以及前面提到的consultation /ˌkɑnsəlˈteɪʃən/也是同样的。
+```
+
+呵呵，这个规律说了等于白说吧
+
+真正的规律，可能是，名词重音在前面，动词重音在后面，所以名词都弱化，pre也是一样。也不知道对不对呀，烦。
+
+# ex
+
+两种大情况：
+
+1. 重音不落在第一个音节上,  
+  
+ a. 当ex后接一个元音字母，ex的发音为/igz/.如：example, exaggerate, executive.     
+ b. 当ex后接一个辅音字母，ex读/iks/. 如：explain, express, expensive. 
+
+2、重音落在第一个音节上，ex的发音即为/eks/.如：exercise, execute, exit.
+
+作者：郭婷
+链接：https://www.zhihu.com/question/38366798/answer/87077304
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
